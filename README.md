@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### <p align="center">🔥 Studing Now...
 <p align = "center">
   <img src= "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src= "https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></p align="center">
-<p align = "center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hhaeum&layout=compact)](https://github.com/Hhaeum/github-readme-stats)
-  </p align = "center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hhaeum&layout=compact)](https://github.com/Hhaeum/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hhaeum&repo=AlgorithmsLog)](https://github.com/Hhaeum/AlgorithmsLog)
