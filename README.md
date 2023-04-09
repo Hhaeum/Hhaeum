@@ -42,7 +42,7 @@ Here are some ideas to get you started:
    🎞 Study Repositories
      <br>
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hhaeum&repo=AlgorithmsLog)](https://github.com/Hhaeum/AlgorithmsLog)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hhaeum&repo=AlgorithmsLog)](https://github.com/Hhaeum/AlgorithmLog)
 
 
 </div>
